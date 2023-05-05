@@ -22,3 +22,4 @@ My solutions for HackerRank Python Challenges.
 | 4 | Python:Division | [Solution.py](Challenges/Introduction/Python:Division.py)
 | 5 | Loops | [Solution.py](Challenges/Introduction/Loops.py)
 | 6 | Write a Function | [Solution.py](Challenges/Introduction/Write%20a%20Function.py)
+| 7 | Print Function | [Solution.py](Challenges/Introduction/Print%20Function.py)
