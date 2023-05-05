@@ -21,3 +21,4 @@ My solutions for HackerRank Python Challenges.
 | 3 | Arithmetic Operators | [Solution.py](Challenges/Introduction/Arithmetic%20Operators.py)
 | 4 | Python:Division | [Solution.py](Challenges/Introduction/Python:Division.py)
 | 5 | Loops | [Solution.py](Challenges/Introduction/Loops.py)
+| 6 | Write a Function | [Solution.py](Challenges/Introduction/Write%20a%20Function.py)
