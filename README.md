@@ -16,4 +16,4 @@ My solutions for HackerRank Python Challenges.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | Say "Hello, World!" With Python| [Solution.sql](Challenges/Python%20(Basic)/Say%20"Hello,%20World!"%20With%20Python.py)
+| 1 | Say "Hello, World!" With Python| [Solution.py](Challenges/Python%20(Basic)/Say%20"Hello,%20World!"%20With%20Python.py)
