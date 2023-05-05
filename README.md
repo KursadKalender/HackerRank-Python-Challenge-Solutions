@@ -12,8 +12,9 @@
 ## Description
 My solutions for HackerRank Python Challenges.
 
-## Python (Basic) Challenges
+## Introduction Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | Say "Hello, World!" With Python| [Solution.py](Challenges/Python%20(Basic)/Say%20"Hello,%20World!"%20With%20Python.py)
+| 1 | Say "Hello, World!" With Python| [Solution.py](Challenges/Introduction/Say%20"Hello,%20World!"%20With%20Python.py)
+| 2 | Python If-Else| [Solution.py](Challenges/Introduction/Python%20If-Else.py)
