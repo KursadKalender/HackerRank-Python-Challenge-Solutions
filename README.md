@@ -20,3 +20,4 @@ My solutions for HackerRank Python Challenges.
 | 2 | Python If-Else| [Solution.py](Challenges/Introduction/Python%20If-Else.py)
 | 3 | Arithmetic Operators | [Solution.py](Challenges/Introduction/Arithmetic%20Operators.py)
 | 4 | Python:Division | [Solution.py](Challenges/Introduction/Python:Division.py)
+| 5 | Loops | [Solution.py](Challenges/Introduction/Loops.py)
