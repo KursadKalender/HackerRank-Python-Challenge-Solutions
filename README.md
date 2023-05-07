@@ -29,3 +29,4 @@ My solutions for HackerRank Python Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | List Comprehensions| [Solution.py](Challenges/Basic%20Data%20Types/List%20Comprehensions.py)
+| 2 | Find the Runner-Up Score!| [Solution.py](Challenges/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!.py)
