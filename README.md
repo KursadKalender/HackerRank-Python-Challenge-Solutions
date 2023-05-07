@@ -23,3 +23,9 @@ My solutions for HackerRank Python Challenges.
 | 5 | Loops | [Solution.py](Challenges/Introduction/Loops.py)
 | 6 | Write a Function | [Solution.py](Challenges/Introduction/Write%20a%20Function.py)
 | 7 | Print Function | [Solution.py](Challenges/Introduction/Print%20Function.py)
+
+## Basic Data Type Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | List Comprehensions| [Solution.py](Challenges/Basic%20Data%20Types/List%20Comprehensions.py)
