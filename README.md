@@ -41,3 +41,4 @@ My solutions for HackerRank Python Challenges.
 |:------:|------------|:---------:|
 | 1 | sWAP cASE| [Solution.py](Challenges/Strings/sWAP%20cASE.py)
 | 2 | String Split and Join| [Solution.py](Challenges/Strings/String%20Split%20and%20Join.py)
+| 3 | What's Your Name?| [Solution.py](Challenges/Strings/What's%20Your%20Name?.py)
