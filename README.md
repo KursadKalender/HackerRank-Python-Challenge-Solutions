@@ -31,3 +31,4 @@ My solutions for HackerRank Python Challenges.
 | 1 | List Comprehensions| [Solution.py](Challenges/Basic%20Data%20Types/List%20Comprehensions.py)
 | 2 | Find the Runner-Up Score!| [Solution.py](Challenges/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!.py)
 | 3 | Nested Lists| [Solution.py](Challenges/Basic%20Data%20Types/Nested%20Lists.py)
+| 4 | Finding the Percentage| [Solution.py](Challenges/Basic%20Data%20Types/Finding%20the%20Percentage.py)
