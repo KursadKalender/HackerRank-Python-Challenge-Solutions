@@ -33,3 +33,4 @@ My solutions for HackerRank Python Challenges.
 | 3 | Nested Lists| [Solution.py](Challenges/Basic%20Data%20Types/Nested%20Lists.py)
 | 4 | Finding the Percentage| [Solution.py](Challenges/Basic%20Data%20Types/Finding%20the%20Percentage.py)
 | 5 | Lists| [Solution.py](Challenges/Basic%20Data%20Types/Lists.py)
+| 6 | Tuples| [Solution.py](Challenges/Basic%20Data%20Types/Tuples.py)
