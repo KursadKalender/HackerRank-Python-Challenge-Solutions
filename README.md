@@ -47,3 +47,4 @@ My solutions for HackerRank Python Challenges.
 | 6 | String Validators| [Solution.py](Challenges/Strings/String%20Validators.py)
 | 7 | Text Alignment| [Solution.py](Challenges/Strings/Text%20Alignment.py)
 | 8 | Text Wrap| [Solution.py](Challenges/Strings/Text%20Wrap.py)
+| 9 | Designer Door Mat| [Solution.py](Challenges/Strings/Designer%20Door%20Mat.py)
