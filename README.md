@@ -45,3 +45,4 @@ My solutions for HackerRank Python Challenges.
 | 4 | Mutations| [Solution.py](Challenges/Strings/Mutations.py)
 | 5 | Find a String| [Solution.py](Challenges/Strings/Find%20a%20String.py)
 | 6 | String Validators| [Solution.py](Challenges/Strings/String%20Validators.py)
+| 7 | Text Alignment| [Solution.py](Challenges/Strings/Text%20Alignment.py)
