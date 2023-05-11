@@ -49,3 +49,4 @@ My solutions for HackerRank Python Challenges.
 | 8 | Text Wrap| [Solution.py](Challenges/Strings/Text%20Wrap.py)
 | 9 | Designer Door Mat| [Solution.py](Challenges/Strings/Designer%20Door%20Mat.py)
 | 10 | String Formatting| [Solution.py](Challenges/Strings/String%20Formatting.py)
+| 11 | Alphabet Rangoli| [Solution.py](Challenges/Strings/Alphabet%20Rangoli.py)
