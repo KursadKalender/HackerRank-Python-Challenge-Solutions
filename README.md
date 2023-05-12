@@ -58,3 +58,4 @@ My solutions for HackerRank Python Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | Introduction to Sets| [Solution.py](Challenges/Sets/Introduction%20to%20Sets.py)
+| 2 | Symmetric Difference| [Solution.py](Challenges/Sets/Symmetric%20Difference.py)
