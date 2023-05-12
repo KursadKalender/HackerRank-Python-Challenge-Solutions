@@ -51,3 +51,10 @@ My solutions for HackerRank Python Challenges.
 | 10 | String Formatting| [Solution.py](Challenges/Strings/String%20Formatting.py)
 | 11 | Alphabet Rangoli| [Solution.py](Challenges/Strings/Alphabet%20Rangoli.py)
 | 12 | Capitalize!| [Solution.py](Challenges/Strings/Capitalize!.py)
+
+
+## Set Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | Introduction to Sets| [Solution.py](Challenges/Sets/Introduction%20to%20Sets.py)
