@@ -60,3 +60,4 @@ My solutions for HackerRank Python Challenges.
 | 1 | Introduction to Sets| [Solution.py](Challenges/Sets/Introduction%20to%20Sets.py)
 | 2 | Symmetric Difference| [Solution.py](Challenges/Sets/Symmetric%20Difference.py)
 | 3 | No Idea!| [Solution.py](Challenges/Sets/No%20Idea!.py)
+| 4 | Set.Add()| [Solution.py](Challenges/Sets/Set.Add().py)
