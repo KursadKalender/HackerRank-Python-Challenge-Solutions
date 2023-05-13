@@ -62,3 +62,4 @@ My solutions for HackerRank Python Challenges.
 | 3 | No Idea!| [Solution.py](Challenges/Sets/No%20Idea!.py)
 | 4 | Set.Add()| [Solution.py](Challenges/Sets/Set.Add().py)
 | 5 | Set.Discard()| [Solution.py](Challenges/Sets/Set.Discard().py)
+| 6 | Set.Union()| [Solution.py](Challenges/Sets/Set.Union().py)
