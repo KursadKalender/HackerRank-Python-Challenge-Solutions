@@ -66,3 +66,4 @@ My solutions for HackerRank Python Challenges.
 | 7 | Set.Intersection()| [Solution.py](Challenges/Sets/Set.intersection().py)
 | 8 | Set.Difference()| [Solution.py](Challenges/Sets/Set.Difference().py)
 | 9 | Set.Symmetric_Difference()| [Solution.py](Challenges/Sets/Set.Symmetric_Difference().py)
+| 10 | Set Mutations| [Solution.py](Challenges/Sets/Set%20Mutations.py)
