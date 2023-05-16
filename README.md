@@ -64,3 +64,4 @@ My solutions for HackerRank Python Challenges.
 | 5 | Set.Discard()| [Solution.py](Challenges/Sets/Set.Discard().py)
 | 6 | Set.Union()| [Solution.py](Challenges/Sets/Set.Union().py)
 | 7 | Set.Intersection()| [Solution.py](Challenges/Sets/Set.intersection().py)
+| 8 | Set.Difference()| [Solution.py](Challenges/Sets/Set.Difference().py)
