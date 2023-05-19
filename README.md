@@ -68,3 +68,4 @@ My solutions for HackerRank Python Challenges.
 | 9 | Set.Symmetric_Difference()| [Solution.py](Challenges/Sets/Set.Symmetric_Difference().py)
 | 10 | Set Mutations| [Solution.py](Challenges/Sets/Set%20Mutations.py)
 | 11 | The Captain's Room| [Solution.py](Challenges/Sets/The%20Captain's%20Room.py)
+| 12 | Check Subset| [Solution.py](Challenges/Sets/Check%20Subset.py)
